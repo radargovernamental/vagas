@@ -15,7 +15,7 @@ de todo o histórico de dados.
 ### Vagas
 Estamos com algumas vagas em nosso time de desenvolvimento utilizando
 as tecnologias mais atuais do mercado e uma grande probabilidade de
-crescimento tanto profissional quanto pessoal. 
+crescimento tanto pessoal quanto profissional. 
 
 Você poderá encontrar essas possíveis vagas
 [aqui](https://github.com/radargovernamental/vagas/issues).
